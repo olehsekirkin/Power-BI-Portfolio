@@ -8,5 +8,5 @@ Power BI related repository, used for data transformation, cleaning, preparation
 Dataset that contains the list and metadata of all the TV Shows and Movies available on Netflix, taken from the IMDb site.
 
 <p align="center">
-  <img src="https://i.imgur.com/Le5H0j5.png" alt="Title" width="700px" height="350px">
+  <img src="https://i.imgur.com/Le5H0j5.png" alt="Title" width="800px" height="400px">
 </p>
