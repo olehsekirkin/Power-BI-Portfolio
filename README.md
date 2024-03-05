@@ -10,5 +10,5 @@ Power BI related repository, used for data transformation, cleaning, preparation
 ## Performance Summary
 
 <p align="center">
-  <img src="https://i.imgur.com/OWHKgso.png" alt="Title" width="1200px" height="1100px">
+  <img src="https://i.imgur.com/OWHKgso.png" alt="Title" width="960px" height="880px">
 </p>
