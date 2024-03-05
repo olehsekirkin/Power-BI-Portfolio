@@ -3,10 +3,12 @@ Power BI related repository, used for data transformation, cleaning, preparation
 
 ## Netflix Movie and TV Shows
 
-[Kaggle Link](https://www.kaggle.com/datasets/snehaanbhawal/netflix-tv-shows-and-movie-list)
-
-Dataset that contains the list and metadata of all the TV Shows and Movies available on Netflix, taken from the IMDb site.
-
 <p align="center">
   <img src="https://i.imgur.com/ctMSYQu.png" alt="Title" width="900px" height="450px">
+</p>
+
+## Performance Summary
+
+<p align="center">
+  <img src="https://i.imgur.com/OWHKgso.png" alt="Title" width="1200px" height="1100px">
 </p>
