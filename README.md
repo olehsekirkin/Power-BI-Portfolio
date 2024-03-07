@@ -1,6 +1,12 @@
 # Power-BI
 Power BI related repository, used for data transformation, cleaning, preparation and visualization. On this repository the only tool used is going to be Power BI, no other helping tool for any data related issue; will be applying different techniques to prepare my data, DAX (Data Analysis Expressions), Power Query, and insightful visuals, trying to keep the dashboards interesting and informative at the same time.
 
+## Cars Sale Dashboard
+
+<p align="center">
+  <img src="https://i.imgur.com/ySJASrO.png" alt="Title" width="1085px" height="614px">
+</p>
+
 ## Netflix Movie and TV Shows
 
 <p align="center">
