@@ -4,7 +4,7 @@ Power BI related repository, used for data transformation, cleaning, preparation
 ## Cars Sale Dashboard
 
 <p align="center">
-  <img src="https://i.imgur.com/aC9LzoV.png" alt="Title" width="922px" height="522px">
+  <img src="https://i.imgur.com/aC9LzoV.png" alt="Title" width="848px" height="480px">
 </p>
 
 ## Netflix Movie and TV Shows
