@@ -13,13 +13,13 @@ Power BI related repository, used for data transformation, cleaning, preparation
   <img src="https://i.imgur.com/bY810KO.png" alt="Title" width="848px" height="480px">
 </p>
 
-## Netflix Movie and TV Shows
+## Netflix Movie and TV Shows (Tutorial Guided)
 
 <p align="center">
   <img src="https://i.imgur.com/ctMSYQu.png" alt="Title" width="900px" height="450px">
 </p>
 
-## Performance Summary
+## Performance Summary (Tutorial Guided)
 
 <p align="center">
   <img src="https://i.imgur.com/OWHKgso.png" alt="Title" width="960px" height="880px">
